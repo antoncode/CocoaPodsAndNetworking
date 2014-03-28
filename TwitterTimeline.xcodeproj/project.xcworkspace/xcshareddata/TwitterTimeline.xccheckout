@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>52C84091-1CE0-443E-A274-DE7FE04C41A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TwitterTimeline</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>432CEA11-9907-448A-99A6-DD55B83D0544</key>
+		<string>ssh://github.com/guantonrivera/CocoaPodsAndNetworking.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TwitterTimeline.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>432CEA11-9907-448A-99A6-DD55B83D0544</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/guantonrivera/CocoaPodsAndNetworking.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>432CEA11-9907-448A-99A6-DD55B83D0544</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>432CEA11-9907-448A-99A6-DD55B83D0544</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocoaPodsAndNetworking</string>
+		</dict>
+	</array>
+</dict>
+</plist>
